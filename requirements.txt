@@ -1,1 +1,4 @@
-flask
+tkinter
+PIL
+runpy
+mysql
